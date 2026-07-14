@@ -33,6 +33,12 @@ Developed electrical drawings and substation layouts using AutoCAD Electrical.
 
 ---
 
+## ETAB Electrical Projects
+
+Designed solar panel model using ETAB.
+
+---
+
 ## Technical Problem Solving
 
 Worked on troubleshooting and validating engineering systems during academic and internship projects.
