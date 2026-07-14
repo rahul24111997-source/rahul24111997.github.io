@@ -1,12 +1,4 @@
----
-permalink: /about/
-title: "About"
----
 
----
-title: "About"
-permalink: /about/
----
 
 # About Me
 
