@@ -4,7 +4,9 @@
 
 You can download my latest resume below.
 
-📄 Download Resume
+## Download My Resume
+
+[📄 Download Resume](/assets/files/Rahul_standard resume1.pdf)
 
 Email:
 rahul24111997@gmail.com
