@@ -26,8 +26,7 @@
 
 - AutoCAD Electrical
 - ETAP
-- Git
-- GitHub
+- MATLAB
 
 ## Professional Skills
 
