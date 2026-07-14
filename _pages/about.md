@@ -6,7 +6,7 @@ Hi, I'm Rahul.
 
 I am a Control Systems Engineer with a Master's degree in Control Systems from PSG College of Technology and a Bachelor's degree in Electrical and Electronics Engineering.
 
-My interests include industrial automation, MATLAB & Simulink, PLC programming, control system design, and technical problem solving.
+My interests include industrial automation, MATLAB & Simulink, PLC programming, control system design,ETAB[basic and advanced],AUTOCAD[2d and 3d] and technical problem solving.
 
 I enjoy designing, simulating, testing, and improving control systems while learning new technologies used in modern industries.
 
