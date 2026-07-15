@@ -1,4 +1,7 @@
-
+---
+title: "About"
+permalink: /about/
+---
 
 # Technical Skills
 
