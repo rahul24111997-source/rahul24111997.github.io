@@ -1,6 +1,7 @@
 ---
-title: "About"
-permalink: /about/
+title: "Contact"
+permalink: /contact/
+author_profile: true
 ---
 
 # Technical Skills
