@@ -13,11 +13,13 @@ author_profile: true
 Designed and simulated a Permanent Magnet Synchronous Motor (PMSM) drive using PID-based control in MATLAB/Simulink.
 
 ### Tools Used
+
 - MATLAB
 - Simulink
 - PID Controller
 
 ### Features
+
 - Closed-loop speed control
 - Dynamic response analysis
 - Torque performance evaluation
@@ -51,7 +53,7 @@ Developed ladder logic for an Automatic Storage and Retrieval System using PLC p
 
 ### Ladder Logic
 
-![PLC Ladder Logic](/assets/images/Project/plc-ladder-logic.jpg)
+![PLC Ladder Logic](/assets/images/Project/PLC-ladder-logics.jpg)
 
 ---
 
