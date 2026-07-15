@@ -24,15 +24,15 @@ Designed and simulated a Permanent Magnet Synchronous Motor (PMSM) drive using P
 
 ### Simulink Model
 
-![PMSM Simulink Model](/assets/images/projects/pmsm-simulink-model.png)
+![PMSM Simulink Model](/assets/images/Project/pmsm-simulink-model.png)
 
 ### Speed Response
 
-![Speed Response](/assets/images/projects/pmsm-speed-response.jpg)
+![Speed Response](/assets/images/Project/pmsm-speed-response.jpg)
 
 ### Electromagnetic Torque Response
 
-![Torque Response](/assets/images/projects/pmsm-torque-response.jpg)
+![Torque Response](/assets/images/Project/pmsm-torque-response.jpg)
 
 ---
 
@@ -51,7 +51,7 @@ Developed ladder logic for an Automatic Storage and Retrieval System using PLC p
 
 ### Ladder Logic
 
-![PLC Ladder Logic](/assets/images/projects/plc-ladder-logic.jpg)
+![PLC Ladder Logic](/assets/images/Project/plc-ladder-logic.jpg)
 
 ---
 
@@ -70,4 +70,4 @@ Created electrical substation layouts using AutoCAD Electrical.
 
 ### Design
 
-![Substation Design](/assets/images/projects/autocad-substation.jpg)
+![Substation Design](/assets/images/Project/autocad-substation.jpg)
