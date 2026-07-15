@@ -1,19 +1,89 @@
+#
+Site Settings
+title: "Rahul S"
+email: "rahul24111997@gmail.com"
+description: "Control Systems Engineer | MATLAB | Simulink | PLC | Industrial Automation"
+
 url: "https://rahul24111997.github.io"
 baseurl: ""
 repository: "rahul24111997/rahul24111997.github.io"
-title: "Rahul S"
-name: "Rahul S"
-description: "Control Systems Engineer Portfolio"
-avatar: "/assets/images/profile.jpg"
-bio: "Control Systems Engineer | MATLAB | Simulink | PLC | Industrial Automation"
-location: "India"
-email: "rahul24111997@gmail.com"
 
-links:
-  - label: "GitHub"
-    icon: "fab fa-github"
-    url: "https://github.com/rahul24111997"
+github_username: "rahul24111997"
 
-  - label: "LinkedIn"
-    icon: "fab fa-linkedin"
-    url: "https://linkedin.com/in/rahul-s-696947218"
+minimal_mistakes_skin: default
+search: true
+
+# Build Settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes"
+
+permalink: /:categories/:title/
+
+paginate: 5
+paginate_path: /page:num/
+
+timezone:
+
+include:
+  - _pages
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name: "Rahul S"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Control Systems Engineer | MATLAB | Simulink | PLC | Industrial Automation"
+  location: "India"
+  email: "rahul24111997@gmail.com"
+
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rahul24111997"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/rahul-s-696947218"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/rahul24111997"
+
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/rahul-s-696947218"
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+  - scope:
+      path: "_pages"
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
