@@ -1,44 +1,73 @@
+---
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
 
 # Projects
 
-## MATLAB-Based Control Systems
+## PMSM Speed Control using MATLAB/Simulink
 
-Designed, simulated and optimized MATLAB models for control system analysis.
+**Objective**
 
-### Highlights
+Designed and simulated a Permanent Magnet Synchronous Motor (PMSM) drive using PID-based control in MATLAB/Simulink.
 
-- Developed control system models
-- Debugged simulation issues
-- Optimized controller performance
-- Presented simulation results
+### Tools Used
+- MATLAB
+- Simulink
+- PID Controller
 
----
+### Features
+- Closed-loop speed control
+- Dynamic response analysis
+- Torque performance evaluation
 
-## Automatic Storage and Retrieval System (ASRS)
+### Simulink Model
 
-Designed PLC control logic for an automated storage system.
+![PMSM Simulink Model](/assets/images/projects/pmsm-simulink-model.png)
 
-### Responsibilities
+### Speed Response
 
-- PLC programming
-- System validation
-- Troubleshooting
-- Documentation
+![Speed Response](/assets/images/projects/pmsm-speed-response.jpg)
 
----
+### Electromagnetic Torque Response
 
-## AutoCAD Electrical Projects
-
-Developed electrical drawings and substation layouts using AutoCAD Electrical.
+![Torque Response](/assets/images/projects/pmsm-torque-response.jpg)
 
 ---
 
-## ETAB Electrical Projects
+## PLC-Based Automatic Storage and Retrieval System (ASRS)
 
-Designed solar panel model using ETAB.
+**Objective**
+
+Developed ladder logic for an Automatic Storage and Retrieval System using PLC programming.
+
+### Features
+
+- Timer-based sequencing
+- Switch-controlled automation
+- Automated material handling
+- Industrial control logic
+
+### Ladder Logic
+
+![PLC Ladder Logic](/assets/images/projects/plc-ladder-logic.jpg)
 
 ---
 
-## Technical Problem Solving
+## AutoCAD Electrical – Substation Design
 
-Worked on troubleshooting and validating engineering systems during academic and internship projects.
+**Objective**
+
+Created electrical substation layouts using AutoCAD Electrical.
+
+### Features
+
+- Busbar arrangement
+- Primary and secondary protection
+- Radial feeder configuration
+- Distribution network layout
+
+### Design
+
+![Substation Design](/assets/images/projects/autocad-substation.jpg)
