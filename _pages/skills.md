@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-permalink: /contact/
+title: "Skills"
+permalink: /skills/
 author_profile: true
 ---
 
