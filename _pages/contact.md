@@ -1,9 +1,9 @@
-
 ---
 title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+
 # Contact
 
 ## Email
@@ -22,4 +22,4 @@ https://github.com/rahul24111997
 
 India
 
-Open to relocation and global opportunities.
+Open to relocation and global opportunities
