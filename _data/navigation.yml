@@ -1,15 +1,21 @@
 main:
   - title: "Home"
-    url: /posts/
+    url: /
+
   - title: "About"
-    url: /categories/
+    url: /about/
+
   - title: "Projects"
-    url: /tags/
+    url: /projects/
+
   - title: "Skills"
-    url: /about/
-    - title: "Resume"
-    url: /about/
-    - title: "Certiications"
-    url: /about/
-    - title: "contact"
-    url: /about/
+    url: /skills/
+
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Certifications"
+    url: /certifications/
+
+  - title: "Contact"
+    url: /contact/
